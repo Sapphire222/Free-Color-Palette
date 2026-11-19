@@ -3,7 +3,7 @@
 > **Generate design-ready color palettes from descriptive words.**  
 > 给所有创作者、美术爱好者与设计师的配色工作台——一键生成你要的配色方案，通过微调，打造独属于你自己产品的氛围感配色。
 
-**在线体验：<https://color-palette.app.workbuddy.host/>** （免注册，打开即用）
+**在线体验：<https://sapphire222.github.io/Free-Color-Palette/>** （免注册，打开即用）
 
 ![主页总览：自动生成六组配色循环展示，可换一批](docs/gifs/01-overview.gif)
 
