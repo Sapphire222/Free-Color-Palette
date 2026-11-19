@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+    <linearGradient id="cpWood" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#B07A4A"/>
+      <stop offset=".55" stop-color="#96613A"/>
+      <stop offset="1" stop-color="#74481F"/>
+    </linearGradient>
+  </defs>
+  <path d="M24 4.5C13 4.5 4 12.4 4 22.4 4 32.4 13.6 41 24.8 41c3.3 0 4.6-1.9 3.7-4-.9-2.3.5-4.4 3.2-4.4h5.5c4.6 0 6.8-3.2 6.8-8C44 13.6 35 4.5 24 4.5Z" fill="url(#cpWood)" stroke="#4E2F14" stroke-width="1.7" stroke-linejoin="round"/>
+  <path d="M9.5 17.5c4.5-3.4 10.5-4.6 16-3.6" stroke="#5E3A1C" stroke-width="1.1" fill="none" opacity=".55" stroke-linecap="round"/>
+  <path d="M8 22.5c3-1.6 6.5-2.3 10-2" stroke="#5E3A1C" stroke-width="1" fill="none" opacity=".4" stroke-linecap="round"/>
+  <circle cx="14.6" cy="31.2" r="4.1" fill="#3E250F"/>
+  <circle cx="14.6" cy="31.2" r="4.1" fill="none" stroke="#2E1B0A" stroke-width="1"/>
+  <circle cx="15" cy="13.4" r="3.3" fill="#E05A4E" stroke="#8A2E26" stroke-width=".8"/>
+  <circle cx="24" cy="10.6" r="3.3" fill="#F0B93C" stroke="#A87818" stroke-width=".8"/>
+  <circle cx="33" cy="12.8" r="3.3" fill="#5FA054" stroke="#35682C" stroke-width=".8"/>
+  <circle cx="38.6" cy="20.4" r="3.1" fill="#4A7EC2" stroke="#2C5488" stroke-width=".8"/>
+  <circle cx="34.4" cy="27.4" r="3.1" fill="#F5F1E6" stroke="#9A9284" stroke-width=".8"/>
+</svg>
